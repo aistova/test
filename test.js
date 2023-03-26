@@ -4,11 +4,7 @@ alert("Привіт!")
 blablabla
 
 
-sdfk
-jopasf
-ja;sf
-
-sdviv
+ya stvoryila gilku DEV
 
 
 
